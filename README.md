@@ -54,7 +54,7 @@
  </details>
   
   
-[![Spotify](https://emre-balcilar.vercel.app/api/spotify)](https://open.spotify.com/user/emrebalclar)
+[![Spotify](https://emre-balcilar-emrebalcilar.vercel.app/api/spotify)](https://open.spotify.com/user/emrebalclar)
 
 
 
