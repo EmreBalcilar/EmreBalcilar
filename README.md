@@ -31,6 +31,6 @@
 </details>
 <details>
 <summary>Time Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=EmreBalcilar&layout=compact">
+[![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=EmreBalcilar)](https://github.com/EmreBalcilar/github-readme-stats)
 
 </details>
