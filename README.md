@@ -20,7 +20,7 @@
 </br>
 <details>
 <summary>GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=EmreBalcilar&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=EmreBalcilar&theme=merko">
 
 </details>
 
