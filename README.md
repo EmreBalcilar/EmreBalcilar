@@ -45,9 +45,3 @@
 <summary>Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBalcilar&layout=compact">
 
-</details>
-<details>
-<summary>Time Stats</summary>
-[![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=EmreBalcilar)](https://github.com/EmreBalcilar/github-readme-stats)
-
-</details>
