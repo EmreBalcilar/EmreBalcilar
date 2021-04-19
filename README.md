@@ -12,7 +12,7 @@
 [<img width="32" src="https://unpkg.com/simple-icons@v4/icons/blogger.svg" align="left"/>][Blog]
 
 [Instagram]:https://www.instagram.com/emrebalclr/
-[LınkedIn]:https://www.linkedin.com/in/emrebalcilar/
+[LinkedIn]:https://www.linkedin.com/in/emrebalcilar/
 [Blog]:http://emrebalcilar.blogspot.com/
 
 </br>
