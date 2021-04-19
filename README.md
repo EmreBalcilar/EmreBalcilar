@@ -2,7 +2,7 @@
 
 ### Hi Welcome To My GithubProfile , I'm Emre :blush:
 
-## Beykoz University Computer Programing Student
+## I am a student at Beykoz University Computer Programing
 
 
 ## Reach out to me 
