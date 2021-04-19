@@ -14,7 +14,7 @@
 
 
 [Instagram]:https://www.instagram.com/emrebalclr/
-[LinkedIn]:https://www.linkedin.com/in/emrebalcilar/
+[LinkedIn]:https://www.linkedin.com/in/emrebalcılar/
 [Blog]:http://emrebalcilar.blogspot.com/
 </br>
 </br>
