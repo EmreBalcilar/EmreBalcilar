@@ -29,3 +29,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreBalcilar&layout=compact">
 
 </details>
+<details>
+<summary>Time Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=EmreBalcilar&layout=compact">
+
+</details>
