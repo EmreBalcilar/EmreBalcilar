@@ -16,6 +16,8 @@
 [Blog]:http://emrebalcilar.blogspot.com/
 </br>
 </br>
+![](https://komarev.com/ghpvc/?username=your-github-EmreBalcilar&color=green)
+
 ## Tech I Use
 
 [<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" align="left"/>][Blog]
@@ -24,7 +26,7 @@
 [<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" align="left"/>][Blog]
 [<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" align="left"/>][Blog]
 
-![](https://komarev.com/ghpvc/?username=your-github-EmreBalcilar)
+
 
 </br>
 </br>
