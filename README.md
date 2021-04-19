@@ -14,6 +14,8 @@
 [Instagram]:https://www.instagram.com/emrebalclr/
 [LinkedIn]:https://www.linkedin.com/in/emrebalcilar/
 [Blog]:http://emrebalcilar.blogspot.com/
+</br>
+</br>
 ## Tech I Use
 
 [<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" align="left"/>][Blog]
