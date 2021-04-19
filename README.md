@@ -11,6 +11,8 @@
 [<img width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left"/>][LinkedIn]
 [<img width="32" src="https://unpkg.com/simple-icons@v4/icons/blogger.svg" align="left"/>][Blog]
 
+[Instagram]:https://www.instagram.com/emrebalclr/
+
 </br>
 <details>
 <summary>GitHub Stats</summary>
