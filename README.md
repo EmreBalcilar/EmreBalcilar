@@ -4,7 +4,7 @@
 
 ## I am a student at Beykoz University Computer Programing
 
-[![Spotify](https://emre-balcilar-emrebalcilar.vercel.app/api/spotify)](https://open.spotify.com/user/emrebalclar)
+
 
 ## Reach out to me 
 
