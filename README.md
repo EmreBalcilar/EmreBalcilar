@@ -36,8 +36,7 @@
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="left"/>][Blog]
 [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" align="left"/>][Blog]
 [<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" align="left"/>][Blog]
-[<img src="" align="left"/>][Blog]
-[<img src="" align="left"/>][Blog]
+
 
 </br>
 </br>
